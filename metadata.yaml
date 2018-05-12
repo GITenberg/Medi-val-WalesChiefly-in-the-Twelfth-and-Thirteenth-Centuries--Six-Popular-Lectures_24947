@@ -1,0 +1,35 @@
+_repo: Medi-val-WalesChiefly-in-the-Twelfth-and-Thirteenth-Centuries--Six-Popular-Lectures_24947
+_version: 0.1.0
+alternative_title: Mediaeval Wales
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Little, A. G. (Andrew George)
+    aliases:
+    - Little, Andrew G.
+    - Little, Andrew George
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '26828'
+    url: http://www.gutenberg.org/2009/agents/26828
+description: ''
+gutenberg_issued: '2008-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monasteries -- Wales'
+- !lcc 'DA'
+- !lcsh 'Geoffrey, of Monmouth, Bishop of St. Asaph, 1100?-1154'
+- !lcsh 'Wales -- History'
+- !lcsh 'Giraldus, Cambrensis, 1146?-1223?'
+title: 'Mediæval Wales
+
+  Chiefly in the Twelfth and Thirteenth Centuries: Six Popular Lectures'
+url: http://www.gutenberg.org/ebooks/24947
